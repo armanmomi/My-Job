@@ -1,5 +1,6 @@
 We fix any kind of device like
 Phone
+camera
 Tablet
 laptop
 Desktop
