@@ -1,7 +1,9 @@
 We fix any kind of device like
 Phone
 camera
+watch
 Tablet
 laptop
 Desktop
 we swap the LCD, Speaker and home button
+we also replace the audio jack and watch battery
